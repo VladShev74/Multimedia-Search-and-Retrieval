@@ -63,9 +63,4 @@ export default tseslint.config({
 })
 ```
 
-## Team Spontaneous Piroshki
-[Our web-based UI](https://spontaneous-piroshki-fddef9.netlify.app/)
-
-[Our Overleaf report](https://www.overleaf.com/project/6758c2a92a0b9d1beb1daddd)
-
-![image](https://github.com/user-attachments/assets/0efbd074-3290-45fb-9157-01e7301484c7)
+[Web-based UI](https://spontaneous-piroshki-fddef9.netlify.app/)
